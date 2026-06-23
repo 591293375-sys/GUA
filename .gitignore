@@ -1,6 +1,7 @@
 node_modules/
 dist/
 outputs/
+work/
 docs/superpowers/
 .DS_Store
 *.log
